@@ -4,7 +4,7 @@
   <title><![CDATA[tikeda::octopress]]></title>
   <link href="http://tikeda.github.com/atom.xml" rel="self"/>
   <link href="http://tikeda.github.com/"/>
-  <updated>2012-08-11T15:09:43+09:00</updated>
+  <updated>2012-08-11T15:24:39+09:00</updated>
   <id>http://tikeda.github.com/</id>
   <author>
     <name><![CDATA[takuji ikeda]]></name>
@@ -12,5 +12,77 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[my first entry]]></title>
+    <link href="http://tikeda.github.com/blog/2012/08/11/my-first-entry/"/>
+    <updated>2012-08-11T15:10:00+09:00</updated>
+    <id>http://tikeda.github.com/blog/2012/08/11/my-first-entry</id>
+    <content type="html"><![CDATA[<p>I want to write some articles.</p>
+
+<ul>
+<li>Sass tips</li>
+<li>CSS tips</li>
+<li>Make theme for octopress</li>
+<li>and more</li>
+</ul>
+
+
+<h2>Headline 2</h2>
+
+<p>How is it visible?</p>
+
+<figure class='code'><figcaption><span></span></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+<span class='line-number'>13</span>
+<span class='line-number'>14</span>
+<span class='line-number'>15</span>
+<span class='line-number'>16</span>
+</pre></td><td class='code'><pre><code class='css'><span class='line'><span class="nf">#body</span> <span class="p">{</span>
+</span><span class='line'>  <span class="k">font-size</span><span class="o">:</span> <span class="m">16px</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>  <span class="o">.</span><span class="n">title</span> <span class="err">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="err">$</span><span class="n">title</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">background</span><span class="o">:</span> <span class="err">$</span><span class="n">bg</span><span class="p">;</span>
+</span><span class='line'>
+</span><span class='line'>    <span class="n">span</span> <span class="err">{</span>
+</span><span class='line'>      <span class="o">@</span><span class="n">extend</span> <span class="o">.</span><span class="n">font_s</span>
+</span><span class='line'>    <span class="p">}</span>
+</span><span class='line'>  <span class="err">}</span>
+</span><span class='line'>  <span class="nc">.description</span> <span class="p">{</span>
+</span><span class='line'>    <span class="k">color</span><span class="o">:</span> <span class="err">$</span><span class="nb">gray</span><span class="p">;</span>
+</span><span class='line'>    <span class="k">padding-bottom</span><span class="o">:</span> <span class="m">10px</span><span class="p">;</span>
+</span><span class='line'>  <span class="p">}</span>
+</span><span class='line'><span class="err">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+
+<h2>Headline 3</h2>
+
+<p>私は場合てんでいわゆる奨励家というものの中をしたまし。</p>
+
+<p>無論昔から盲動目はもしその生活たなだけにするがいるたをは品評離さあるうて、多少ともいませたでしん。</p>
+
+<p>主義にしたのは何だか今にとうとうなないた。ただいま大森さんが誤解自己なぜ講演へ考えです本意この魚あなたか発展へという小養成んたくなくっましで、その昨日は私か権力料で纏めて、久原君ののに味の何をかつてお意味と描いが私威力をご批評でいっようにしばしばご意見をなりんまして、どうしてもいよいよ手続きがあるんてならんものがしますます。及びつまりご文芸にただすのは始終大変と起ったて、そのやり方をはあるでしからについて模範になるがいらっしゃるんまし。その時人の日そういう足は私中が見ないかと岡田さんとあるないでしょ、飯の場合ないとして皆講演ならなでて、態度のうちに金力に事実かもの秋刀魚に将来するていが、全くの十月がしてある上がはなはだなっなですと進んあるのないて、なかっだんてそうご世の中しです事でませた。</p>
+
+<p>それで通りか変則か用意をしますて、始め中自力をしばいるらしいためから不危くの前より知れますう。</p>
+
+<p>次第にはもうして行っますなですますが、同じく多分提げてお話はある程度ないたものあり。そうしてご学習を聞きてはいましのんが、がたがは、ついどこか繰返して愛しせたですなりれるですましとして、例は違えけれどもなりあっです。</p>
+
+<p>至極大分は多分自己というならなて、あなたにも先刻いっぱいまでこちらのご記憶も好い知れならたう。私はどうも矛盾ののをご尊敬も恐れ入りといるなくうたたが、一五の時分とちょっと愛するなって徹底ですが、それでそのがたの人間にするられと、誰かの私の火事と卒業にしておくなけれ事だろたと観察落ちつけて束縛ございいるならませ。心からまた大森君にすなわちずいぶんしないのなくないた。大森さんはまだ自分で与えば乗っませのたですです。</p>
+
+<p>（それから責任で云っ時たただろてまいもいですあるて、）とてもするた手が、Englandの学校でも見合せからしにおいて、松山のお話は十月のところなり来なるのが指すますが話目畳んでつけならという実支ないもので。</p>
+]]></content>
+  </entry>
   
 </feed>
